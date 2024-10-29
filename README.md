@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Bintone 👋
+
+✨ Couple of years ago I decided to transition my career from personal training to IT.
+👩🏻‍🎓 I graduated in Computer Science, and I’m currently pursuing a Master’s degree in Artificial Intelligence. 
+🤓 I recently discovered a strong interest in data analytics, and now working on advancing my skills in both data analytics and software development. 
+
+
+
 
 <!--
 **bintonechen/bintonechen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
