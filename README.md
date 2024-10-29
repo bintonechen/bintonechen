@@ -16,7 +16,7 @@
 - 🏗️ **I’m currently working on:** Advancing my skills in both data analytics and software development.
 - 🌱 **I’m currently learning:** Statistics and Machine Learning.
 - 📫 **How to reach me:** https://www.linkedin.com/in/bintong-chen/
-- 😄 **Fun fact:** There’s nothing I can't recover from with a good 10 hours of sleep.
+- 😄 **Fun fact:** There’s nothing I can't recover from with a good 10 hours of sleep and a big breakfast.
 
 ---
 
