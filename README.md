@@ -17,7 +17,7 @@
 - 🏗️ **I’m currently working on:** building a full-stack Food Delivery application.
 - 🌱 **I’m currently learning:** Data Sturctures
 - 📫 **How to reach me:** https://www.linkedin.com/in/bintong-chen/
-- 🍳 **Fun fact:** There’s nothing I can't recover from with a good 10 hours of sleep and a big breakfast!
+- 🍳 **Fun fact:** There’s nothing I can't recover from with a good 10 hours of sleep and a big breakfast!🥞🍓☕
 
 ---
 
