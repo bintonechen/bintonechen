@@ -6,7 +6,7 @@
 
 👩🏻‍🎓 I graduated in Computer Science, and I’m currently pursuing a Master’s degree in Artificial Intelligence.
 
-🤓 I am actively seeking internship or junior positions in full-stack software development, where I can challenge my skills and grow professionally!
+🤓 I am actively seeking internship or junior positions in software development and IT, where I can challenge my skills and grow professionally!
 
 </div>
 
