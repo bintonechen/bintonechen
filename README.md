@@ -6,15 +6,16 @@
 
 👩🏻‍🎓 I graduated in Computer Science, and I’m currently pursuing a Master’s degree in Artificial Intelligence.
 
-🤓 I recently discovered a strong interest in data analytics and am now looking for opportunities in this field.
+🤓 I am actively seeking internship or junior positions in full-stack software development, where I can challenge my skills and grow professionally!
 
 </div>
 
 ---
 
-- 💻 **Languages and Tools:** JAVA, Python, SQL, SpringBoot, Vue
-- 🏗️ **I’m currently working on:** Advancing my skills in both data analytics and software development.
-- 🌱 **I’m currently learning:** Statistics and Machine Learning.
+- 💻 **Languages:** JAVA, Python
+- 🛠️ **Tools:** SpringBoot, Vue, MySQL, MongoDB, Git, GitHub 
+- 🏗️ **I’m currently working on:** building a full-stack Food Delivery application project.
+- 🌱 **I’m currently learning:** Data Sturctures
 - 📫 **How to reach me:** https://www.linkedin.com/in/bintong-chen/
 - 🍳 **Fun fact:** There’s nothing I can't recover from with a good 10 hours of sleep and a big breakfast!
 
