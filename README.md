@@ -2,7 +2,7 @@
 
 <div align="center">
   
-✨ A couple of years ago I decided to transition my career from personal training to IT.
+✨ A couple of years ago I decided to transition my career from personal training to Software Development.
 
 👩🏻‍🎓 I graduated in Computer Science, and I’m currently pursuing a Master’s degree in Artificial Intelligence.
 
