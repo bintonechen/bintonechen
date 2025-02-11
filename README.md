@@ -12,16 +12,12 @@
 
 ---
 
-- 💻 **Languages:**
-  - JAVA (Software Development)
-  - Python (Data Analytics)
-- 🛠️ **Tools:**
-  - SpringBoot, Vue, MySQL, MongoDB
-  - Git, GitHub 
+- 💻 **Languages:** JAVA (Software Development), Python (Data Analytics)
+- 🛠️ **Tools:** SpringBoot, Vue, MySQL, MongoDB, Git, GitHub 
 - 🏗️ **I’m currently working on:**
   - Two academic projects related to machine learning and nutrition.
   - Solving leetcode problems. 
-- 🌱 **I’m currently learning:** Data Sturctures
+- 🌱 **I’m currently learning:** Machine Learning 
 - 📫 **How to reach me:** https://www.linkedin.com/in/bintong-chen/
 - 🍳 **Fun fact:** There’s nothing I can't recover from with a good 10 hours of sleep and a big breakfast!🥞🍓☕
 
