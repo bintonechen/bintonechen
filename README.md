@@ -2,22 +2,20 @@
 
 <div align="center">
   
-✨ A couple of years ago I decided to transition my career from personal training to Software Development.
+✨ A couple of years ago, I hit refresh on my career, moving from business analyst to the exciting world of software development. Along the way, I discovered a passion for data - diving deep into numbers, uncovering hidden stories, and solving puzzles with code.
 
-👩🏻‍🎓 I graduated in Computer Science, and I’m currently pursuing a Master’s degree in Artificial Intelligence.
+👩🏻‍🎓 After completing my Computer Science Higher Diploma, I recently graduated with first-class honours in my Master’s in Artificial Intelligence.
 
-🤓 I am actively seeking internship or junior positions in software development and data analytics, where I can challenge my skills and grow professionally!
+🤓 I am currently seeking internships or junior positions in the fields of Data Analytics, Data Science, and AI, where I can challenge my skills and grow professionally!
 
 </div>
 
 ---
 
-- 💻 **Languages:** JAVA (Software Development), Python (Data Analytics)
-- 🛠️ **Tools:** SpringBoot, Vue, MySQL, MongoDB, Git, GitHub 
-- 🏗️ **I’m currently working on:**
-  - Two academic projects related to machine learning and nutrition.
-  - Solving leetcode problems. 
-- 🌱 **I’m currently learning:** Machine Learning 
+- 💻 **Languages:** Python (Data Analytics), JAVA (Software Development)
+- 📊 **Data analysis & visualization:** SQL, Power BI, Excel
+- 🛠️ **Tools:** SpringBoot, Vue, MySQL, MongoDB, Git, GitHub
+- 🌱 **I’m currently learning:** Power BI and Tableau 
 - 📫 **How to reach me:** https://www.linkedin.com/in/bintong-chen/
 - 🍳 **Fun fact:** There’s nothing I can't recover from with a good 10 hours of sleep and a big breakfast!🥞🍓☕
 
