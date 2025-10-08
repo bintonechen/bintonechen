@@ -14,7 +14,7 @@
 
 - 💻 **Languages:** Python (Data Analytics), JAVA (Software Development)
 - 📊 **Data analysis & visualization:** SQL, Power BI, Excel
-- 🛠️ **Tools:** SpringBoot, Vue, MySQL, MongoDB, Git, GitHub
+- 🛠️ **Tools:** MySQL, Jupyter, Git, GitHub, SpringBoot, Vue
 - 🌱 **I’m currently learning:** Power BI and Tableau 
 - 📫 **How to reach me:** https://www.linkedin.com/in/bintong-chen/
 - 🍳 **Fun fact:** There’s nothing I can't recover from with a good 10 hours of sleep and a big breakfast!🥞🍓☕
