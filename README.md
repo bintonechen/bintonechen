@@ -2,11 +2,9 @@
 
 <div align="center">
   
-✨ A few years ago, I hit refresh on my career and moved from business analyst to software developer. Along the way, I discovered a passion for data - diving deep into numbers, uncovering hidden stories, and solving puzzles with code.
+✨ A few years ago, I hit refresh on my career, moving from a business analyst role in the health and fitness industry to software development. Along the way, I discovered a passion for data—diving deep into numbers, uncovering hidden stories, and solving puzzles with code.
 
-👩🏻‍🎓 After completing my Computer Science Higher Diploma, I recently graduated with first-class honours in my Master’s in Artificial Intelligence.
-
-🤓 I am currently seeking internships or junior positions in the fields of Data Analytics, Data Science, and AI, where I can challenge my skills and grow professionally!
+👩🏻‍🎓 After completing my Computer Science Higher Diploma, I recently graduated with first-class honours in my Master’s in Artificial Intelligence. I am currently seeking internships or junior positions in the fields of Data Analytics, Data Science, and AI, where I can challenge my skills and grow professionally!
 
 </div>
 
