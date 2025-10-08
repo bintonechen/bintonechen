@@ -2,7 +2,9 @@
 
 <div align="center">
   
-✨ A couple of years ago, I hit refresh on my career, moving from business analyst to the exciting world of software development. Along the way, I discovered a passion for data - diving deep into numbers, uncovering hidden stories, and solving puzzles with code.
+✨ A few years ago, I hit refresh on my career and moved from business analyst to software developer.
+
+📊 Along the way, I discovered a passion for data - diving deep into numbers, uncovering hidden stories, and solving puzzles with code.
 
 👩🏻‍🎓 After completing my Computer Science Higher Diploma, I recently graduated with first-class honours in my Master’s in Artificial Intelligence.
 
